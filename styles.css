@@ -1,0 +1,21 @@
+body {
+    background-color: #000; /* Negro */
+    color: #9400D3; /* Violeta oscuro */
+    font-weight: bold;
+    font-style: italic;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #9400D3; /* Violeta oscuro para títulos */
+}
+
+/* Estilo adicional para enlaces */
+a {
+    color: #8A2BE2; /* Violeta medio para enlaces */
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EE82EE; /* Violeta claro al pasar el mouse */
+}
